@@ -16,3 +16,17 @@ Me llamo Raúl Guzmán y estudio en la Facultad de Informática de la UAQ
 ## Mi Mascota
 
 ![Foto de mi mascota](Bonito.png)
+
+## Mi quote favorita
+
+> Divide y vencerás
+
+## Código
+
+```javascript
+console.log('Hello World');
+```
+
+```python
+print("Hello World")
+```
