@@ -13,6 +13,6 @@ Me llamo Raúl Guzmán y estudio en la Facultad de Informática de la UAQ
     - Zelda
 - Ver series
 
-## Mi Mascota
+## Mi Mascotas
 
 ![Foto de mi mascota](Bonito.png)
