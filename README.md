@@ -8,7 +8,7 @@ Me llamo Raúl Guzmán y estudio en la Facultad de Informática de la UAQ
   - JavaScript
   - TypeScript
   - Python
-- Jugar videojuegos2
+- Jugar videojuegos
   - Nintendo Switch
     - Zelda
 - Ver series
